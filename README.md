@@ -11,8 +11,14 @@
 </div>
 
 <h2>Material de estudos realizado na trilha NodeJS realizado pela Rocketseat.</h2>
-<br/>
 
 # Notas sobre a execução
 
 - **Rodando o servidor:** Para rodar o servidor, executar dentro da pasta API o comando yarn dev.
+
+# Instalação de dependências
+
+- **ts-node-dev:** yarn add ts-node-dev -D
+- **express:** yarn add express
+- **typescript:** yarn add typescript -D
+- **@types/express:** yarn add @types/express -D
