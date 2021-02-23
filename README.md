@@ -1,9 +1,5 @@
 # Next Level Week - Trilha NodeJS
 
-Material de estudos realizado na trilha NodeJS realizado pela Rocketseat.
-<br/>
-Para rodar o servidor, executar dentro da pasta API o comando yarn dev
-
 <div align="center">
   <img src="https://img.shields.io/badge/NodeJS-14.15.5-brightgreen" alt="NodeJS 14.15.5 LTS">
   <img src="https://img.shields.io/badge/Yarn-1.22.5-brightgreen" alt="Yarn 1.22.5">
@@ -13,3 +9,10 @@ Para rodar o servidor, executar dentro da pasta API o comando yarn dev
   <img src="https://img.shields.io/badge/typescript-4.1.5-blue" alt="typescript 4.1.5">
   <img src="" alt="">
 </div>
+
+<h2>Material de estudos realizado na trilha NodeJS realizado pela Rocketseat.</h2>
+<br/>
+
+# Notas sobre a execução
+
+- **Rodando o servidor:** Para rodar o servidor, executar dentro da pasta API o comando yarn dev.
